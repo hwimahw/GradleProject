@@ -57,9 +57,8 @@ public class MainTest{
     @Test
     public void checkResult(){
         System.out.println("Ответ");
-        ArrayList<Island> islands = new ArrayList<>();
         quantityOfDots();
-        System.out.println("Quantity of islands: " + (graph.quantityOfIslands(graph, islands) - quantityOfDots));
+        System.out.println("Quantity of islands: " + (graph.quantityOfIslands(graph) - quantityOfDots));
         System.out.println();
     }
 }

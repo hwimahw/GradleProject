@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.ncd.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-01T10:14:57" hostname="mansur-ThinkPad-13-2nd-Gen" time="0.164">
+<testsuite name="ru.ncd.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-01T12:01:47" hostname="mansur-ThinkPad-13-2nd-Gen" time="0.091">
   <properties/>
-  <testcase name="checkResult" classname="ru.ncd.MainTest" time="0.164"/>
+  <testcase name="checkResult" classname="ru.ncd.MainTest" time="0.091"/>
   <system-out><![CDATA[Матрица из файла и её размер
 8 11
 .....##....
