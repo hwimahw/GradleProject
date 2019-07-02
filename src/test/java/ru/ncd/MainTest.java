@@ -55,8 +55,8 @@ public class MainTest{
 
         System.out.println("Матрица смежности графа и её размер");
         graph = new Graph(matrix);
-        assertEquals("Size of arrayGraph is not right", graph.n, matrix.n * matrix.m);
 
+        assertEquals("Size of arrayGraph is not right", graph.n, matrix.n * matrix.m);
         size = graph.n * graph.n;
         char[] arr3 = new char[size];
         char[] arr4 = {'1', '0', '0', '0', '0', '0','0', '0','0', '0','0', '0','0', '0','0','1'};
